@@ -1,0 +1,17 @@
+ipywidgets
+matplotlib
+torch
+torchvision=
+tqdm
+fenics-dolfinx==0.8.0
+pyvista
+sympy
+scipy 
+pyaml
+gmsh
+seaborn
+tqdm
+pytest
+pytest-xdist 
+nbmake
+ipyparallel

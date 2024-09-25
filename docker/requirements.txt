@@ -1,0 +1,5 @@
+# General tools
+sympy
+scipy 
+pyaml
+cython
