@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16252977)
 # Calcul numérique des solides et structures non-linéaires 2024-2025
 
 This repository collects the material to the class MU5MES01 of the Solid Mechanics Master of [Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-de-mecanique/parcours-mecanique-des-solides-et) and [ENPC](https://ecoledesponts.fr/)
